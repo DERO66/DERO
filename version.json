@@ -1,0 +1,21 @@
+{
+  "library": {
+    "title": "TG DERO",
+    "telegram": "https://t.me/DERO_STAR",
+    "version": "PUBG Mobile 4.3 - 64 bit"
+  },
+  
+  "update": {
+    "changelog": [
+      "The skin update is here, you can skip it after updating once.",
+      "Fixxed crash in game, deleted backpack skin."
+    ]
+  },
+ 
+  "maintenance": {
+    "title": "MAINTENANCE",
+    "mode": true,
+    "message": "Please be patient for the next update information\nWait for updated information on the channel below.",
+    "estimated": "3 day"
+  }
+}
